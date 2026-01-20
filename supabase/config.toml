@@ -1,0 +1,4 @@
+project_id = "ai-site-studio"
+
+[auth]
+site_url = "http://localhost:5173"
